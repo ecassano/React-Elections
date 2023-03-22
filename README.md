@@ -1,3 +1,9 @@
+{PT-BR} Interface simples para exibição de resultado de pleitos, feito inteiramente com React js. Projeto alimentado por um backend local desenvolvido em Node js com o pacote json-server.
+
+{English} Simple interface to display elections results, made entirely with React js. All data fetched and provided with a local backend made with Node js with the json-server package.
+
+{Italiano} Interfaccia semplice per visualizzare i risultati elettorali, fatto interamente con React js. Tutti i dati recuperati e forniti per un backend locale sviluppato nel Node js con il pachetto json-server.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
